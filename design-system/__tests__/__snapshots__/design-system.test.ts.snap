@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Example/Button Large 1`] = `
+<button
+  className="uppercase tracking-wider box-border border border-gray-400 text-gray-400 focus:outline-none focus:border-gray-600 hover:border-gray-600 focus:text-gray-600 hover:text-gray-600 rounded-lg text-lg px-4 py-3 false"
+  type="button"
+>
+  Button
+</button>
+`;
+
+exports[`Storyshots Example/Button Primary 1`] = `
+<button
+  className="uppercase tracking-wider box-border bg-blue-400 border border-blue-400 text-white focus:outline-none focus:bg-blue-600 focus:border-blue-600 hover:bg-blue-600 hover:border-blue-600 rounded-md text-md px-3 py-2 false"
+  type="button"
+>
+  Button
+</button>
+`;
+
+exports[`Storyshots Example/Button Secondary 1`] = `
+<button
+  className="uppercase tracking-wider box-border border border-gray-400 text-gray-400 focus:outline-none focus:border-gray-600 hover:border-gray-600 focus:text-gray-600 hover:text-gray-600 rounded-md text-md px-3 py-2 false"
+  type="button"
+>
+  Button
+</button>
+`;
+
+exports[`Storyshots Example/Button Small 1`] = `
+<button
+  className="uppercase tracking-wider box-border border border-gray-400 text-gray-400 focus:outline-none focus:border-gray-600 hover:border-gray-600 focus:text-gray-600 hover:text-gray-600 rounded-sm text-sm px-2 py-1 false"
+  type="button"
+>
+  Button
+</button>
+`;

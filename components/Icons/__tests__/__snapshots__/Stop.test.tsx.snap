@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StopSVG Should match snapshots 1`] = `
+<div>
+  <svg
+    aria-hidden="true"
+    class="w-6 h-6"
+    data-icon="stop"
+    data-prefix="fas"
+    viewBox="0 0 448 512"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48z"
+      fill="currentColor"
+    />
+  </svg>
+</div>
+`;
